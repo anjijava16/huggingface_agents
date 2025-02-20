@@ -22,6 +22,11 @@ Think → Act → Observe.
 
 
 
+![image](https://github.com/user-attachments/assets/40564494-6798-4030-acec-71c062f34694)
+
+
+
+
 An Agent is a system that leverages an AI model to interact with its environment in order to achieve a user-defined objective. It combines reasoning, planning, and the execution of actions (often via external tools) to fulfill tasks.
 
 ## Think of the Agent as having two main parts:
