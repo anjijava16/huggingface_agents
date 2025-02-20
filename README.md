@@ -1,6 +1,27 @@
 # huggingface_agents
 Huggingface agents
 
+
+## Understanding Agents
+
+1. What is an Agent, and how does it work?
+2. How do Agents make decisions using reasoning and planning?
+
+## The Role of LLMs (Large Language Models) in Agents
+
+1. How LLMs serve as the “brain” behind an Agent.
+2. How LLMs structure conversations via the Messages system.
+
+## Tools and Actions
+1. How Agents use external tools to interact with the environment.
+2. How to build and integrate tools for your Agent.
+
+## The Agent Workflow:
+
+Think → Act → Observe.
+
+
+
 An Agent is a system that leverages an AI model to interact with its environment in order to achieve a user-defined objective. It combines reasoning, planning, and the execution of actions (often via external tools) to fulfill tasks.
 
 ## Think of the Agent as having two main parts:
