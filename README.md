@@ -53,6 +53,18 @@ will learn more about LLMs in the next section.
 1. Implement and modify the Thought → Act → Observe cycle to create robust and maintainable Function-calling workflows.
 
 
+
+## To summarize, an Agent is a system that uses an AI Model (typically an LLM) as its core reasoning engine, to:
+
+1. Understand natural language: Interpret and respond to human instructions in a meaningful way.
+
+2. Reason and plan: Analyze information, make decisions, and devise strategies to solve problems.
+
+3. Interact with its environment: Gather information, take actions, and observe the results of those actions.
+
+Now that you have a solid grasp of what Agents are, let’s reinforce your understanding with a short, ungraded quiz. After that, we’ll dive into the “Agent’s brain”: the LLMs.
+
+
 # References 
 1. https://github.com/huggingface/agents-course/tree/main
 2. https://www.youtube.com/watch?v=iLVyYDbdSmM&t=981s
