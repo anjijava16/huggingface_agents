@@ -22,6 +22,8 @@ Think → Act → Observe.
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/40564494-6798-4030-acec-71c062f34694)
 
 
@@ -64,6 +66,9 @@ will learn more about LLMs in the next section.
 
 Now that you have a solid grasp of what Agents are, let’s reinforce your understanding with a short, ungraded quiz. After that, we’ll dive into the “Agent’s brain”: the LLMs.
 
+
+# Tokenizer
+1. https://huggingface.co/learn/agents-course/unit1/what-are-llms
 
 # References 
 1. https://github.com/huggingface/agents-course/tree/main
